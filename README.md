@@ -174,6 +174,8 @@ ldcmd restart
 
 Go to [Releases](https://github.com/LegedsDaD/LDcmd/releases/tag/Standalone_LDcmd) and [Download](https://github.com/LegedsDaD/LDcmd/releases/tag/Standalone_LDcmd/LDcmd.exe) the executable LDcmd.exe from their .
 
+If Microsoft Windows Defender blocks the LDcmd.exe from being executed select the "run anyway" or change properties to execute LDcmd.
+
 ### Clone Repository
 
 ```bash
