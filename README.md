@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 LDcmd
+# 🚀 LDcmd (LegendDaD's Command prompt )
 
 ### A Modern, Theme-Aware Windows Command Prompt Wrapper
 
@@ -171,12 +171,13 @@ ldcmd restart
 ## 🚀 Installation
 
 ### Download **.exe**(Recommended option)
-Go to releases and download the executale from their .
+
+Go to [Releases](https://github.com/LegedsDaD/LDcmd/releases/tag/Standalone_LDcmd) and [Download](https://github.com/LegedsDaD/LDcmd/releases/tag/Standalone_LDcmd/LDcmd.exe) the executale from their .
 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LDcmd.git
+git clone https://github.com/LegedsDaD/LDcmd.git
 cd LDcmd
 ```
 
